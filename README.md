@@ -1,4 +1,4 @@
-## Olá, sou o Adenilson Veneranda (●'◡'●)
+## Olá, sou o Adenilson  (●'◡'●)
 
 ![snake animation](https://github.com/adenilsoon/adenilsoon/blob/output/github-contribution-grid-snake2.svg)
 
